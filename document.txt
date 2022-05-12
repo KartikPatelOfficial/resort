@@ -1,0 +1,2 @@
+link for get data
+http://localhost/Vanvagdo-Reshort/data-list.php?signature=opr@$
